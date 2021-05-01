@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/Lz6Jrm6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/X1gMK4s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 **Chirp** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
